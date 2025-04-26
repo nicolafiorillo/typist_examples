@@ -1,4 +1,4 @@
-# Typist examples
+# Typst examples
 
 Install Typst:
 ```
